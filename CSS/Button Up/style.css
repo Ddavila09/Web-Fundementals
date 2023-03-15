@@ -1,0 +1,27 @@
+.button {
+    display: list-item;
+    margin: 10px;
+}
+#search {
+    color: #119b9d;
+    border-color: #119b9d;
+    border-radius: 10px;
+    width:3cm;
+}
+
+#add {
+    background-color: #04d1b2;
+    color: white;
+    border-radius: 50%;
+    border: 0px;
+    height: 30px;
+    width: 30px;
+}
+
+#create{
+    background-color: #2b78e4;
+    color: white;
+    height: 30px;
+    width: 150px;
+    box-shadow: 3px 3px  black ;
+}
